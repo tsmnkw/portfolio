@@ -10,10 +10,10 @@
 
     <div class="card" style="background-color: {$dark_mode ? 'rgba(25, 26, 33, 0.9)' : 'rgba(238, 238, 238, 0.9)'};">
         <span style="padding-top: 30px;">About me</span>
-        <p>Hello fellow being! My name is Tasman. <br><br>
+        <p>Hello! My name is Tasman. <br><br>
             Thank you for finding your way to my portfolio page. Be sure to hang around and take a look at my projects if you'd like.<br>
             I appreciate your time and curiosity.<br><br>
-            You can contact me at <a href="mailto: tasman.wilcock@gmail.com" style="color: #78b2aa;">tasman.wilcock@gmail.com</a></p><br>
+            You can contact me at <a href="mailto: " style="color: #78b2aa;"></a></p><br>
 
         <span style="padding-top: 30px;">About this website</span>
         <p>This website is my portfolio of web apps, websites, and design projects.<br><br>
