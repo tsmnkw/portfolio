@@ -1,6 +1,4 @@
-# Tasman Kingsley
-
-https://tasmankingsley.github.io/
+# Tasman
 
 My portfolio - under development.
 
