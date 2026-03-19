@@ -13,7 +13,6 @@
         <p>Hello! My name is Tasman. <br><br>
             Thank you for finding your way to my portfolio page. Be sure to hang around and take a look at my projects if you'd like.<br>
             I appreciate your time and curiosity.<br><br>
-            You can contact me at <a href="mailto: " style="color: #78b2aa;"></a></p><br>
 
         <span style="padding-top: 30px;">About this website</span>
         <p>This website is my portfolio of web apps, websites, and design projects.<br><br>
