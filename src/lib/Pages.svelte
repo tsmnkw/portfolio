@@ -24,7 +24,7 @@ onMount(() => {
 
 <div class="grid" in:fly={{x: -400, duration: 500}}>
     <a href="https://tsmnkw.github.io/giddy-grocery/" target="_blank">
-        <img src="/images/giddy-grocery.jpg">
+        <img src="./images/giddy-grocery.jpg">
     </a>
 
     <div class="grid-content">
@@ -55,7 +55,7 @@ onMount(() => {
     </div>
 
     <a href="https://tsmnkw.github.io/" target="_blank">
-        <img class="hidden" src="/images/portfolio.jpg">
+        <img class="hidden" src="./images/portfolio.jpg">
     </a>
 
     <div class="grid-content hidden">
@@ -83,7 +83,7 @@ onMount(() => {
     </div>
 
     <a href="https://artistwebsite.vercel.app/" target="_blank">
-        <img class="hidden" src="/images/artist-website.jpg">
+        <img class="hidden" src="./images/artist-website.jpg">
     </a>
 
     <div class="grid-content hidden">
@@ -108,7 +108,7 @@ onMount(() => {
     </div>
 
     <a href="https://tsmnkw.github.io/psuedo-business/" target="_blank">
-        <img class="hidden" src="/images/car-rental.jpg">
+        <img class="hidden" src="./images/car-rental.jpg">
     </a>
 
     <div class="grid-content hidden">
