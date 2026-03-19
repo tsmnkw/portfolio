@@ -23,7 +23,7 @@ onMount(() => {
 </script>
 
 <div class="grid" in:fly={{x: -400, duration: 500}}>
-    <a href="https://tasmankingsley.github.io/giddy-grocery/" target="_blank">
+    <a href="https://tsmnkw.github.io/giddy-grocery/" target="_blank">
         <img src="/images/giddy-grocery.jpg">
     </a>
 
@@ -33,9 +33,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img class="icon" src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/giddy-grocery/">Web link</a>
+                <a href="https://tsmnkw.github.io/giddy-grocery/">Web link</a>
                 <img class="icon" src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/giddy-grocery">Github repo</a>
+                <a href="https://github.com/tsmnkw/giddy-grocery">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -54,7 +54,7 @@ onMount(() => {
         </div>
     </div>
 
-    <a href="https://tasmankingsley.github.io/" target="_blank">
+    <a href="https://tsmnkw.github.io/" target="_blank">
         <img class="hidden" src="/images/portfolio.jpg">
     </a>
 
@@ -64,9 +64,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img class="icon" src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/">Web link</a>
+                <a href="https://tsmnkw.github.io/">Web link</a>
                 <img class="icon" src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/tasmankingsley.github.io">Github repo</a>
+                <a href="https://github.com/tsmnkw/tsmnkw.github.io">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -94,7 +94,7 @@ onMount(() => {
                 <img class="icon" src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
                 <a href="https://artistwebsite.vercel.app/">Web link</a>
                 <img class="icon" src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/artist-website">Github repo</a>
+                <a href="https://github.com/tsmnkw/artist-website">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -107,7 +107,7 @@ onMount(() => {
         </div>
     </div>
 
-    <a href="https://tasmankingsley.github.io/psuedo-business/" target="_blank">
+    <a href="https://tsmnkw.github.io/psuedo-business/" target="_blank">
         <img class="hidden" src="/images/car-rental.jpg">
     </a>
 
@@ -117,9 +117,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img class="icon" src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/psuedo-business/">Web link</a>
+                <a href="https://tsmnkw.github.io/psuedo-business/">Web link</a>
                 <img class="icon" src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/psuedo-business">Github repo</a>
+                <a href="https://github.com/tsmnkw/psuedo-business">Github repo</a>
             </div>
 
             <h3>Description</h3>

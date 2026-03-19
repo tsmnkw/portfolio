@@ -5,7 +5,6 @@ import Home from './lib/Home.svelte';
 import Code from './lib/Code.svelte';
 import Pages from './lib/Pages.svelte';
 import Design from './lib/Design.svelte';
-import Music from './lib/Music.svelte';
 import About from './lib/About.svelte';
 import waves from './assets/waves.jpeg';
 import dark from  './assets/background-dark.png';
@@ -62,8 +61,7 @@ function toggle_mode() {
       <div class="nav-btn" on:click={() => toggle(2)}><span class="btn-txt">Web app projects</span></div>
       <div class="nav-btn" on:click={() => toggle(3)}><span class="btn-txt">Website projects</span></div>
       <div class="nav-btn" on:click={() => toggle(4)}><span class="btn-txt">Design portfolio</span></div>
-      <!-- <div class="nav-btn" on:click={() => toggle(4)}><span class="btn-txt">Music</span></div> -->
-      <div class="nav-btn" on:click={() => toggle(6)}><span class="btn-txt">About</span></div>
+      <div class="nav-btn" on:click={() => toggle(5)}><span class="btn-txt">About</span></div>
       <div class="close" style="background-color: {$dark_mode ? '#191a22' : '#eee'}"></div>
     </div>
   {/if}
@@ -88,9 +86,7 @@ function toggle_mode() {
       <Pages/>
     {:else if $nav[4].visible}
       <Design/>
-    <!-- {:else if $nav[5].visible}
-      <Music/> -->
-    {:else if $nav[6].visible}
+    {:else if $nav[5].visible}
       <About/>
     {/if}
   </div>

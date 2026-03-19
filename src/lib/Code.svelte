@@ -39,7 +39,7 @@ onMount(() => {
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
                 <a href="https://pods.netlify.app/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/podcast-app">Github repo</a>
+                <a href="https://github.com/tsmnkw/podcast-app">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -68,7 +68,7 @@ onMount(() => {
 
 
     <div class="a2 hidden">
-        <iframe src="https://kana-kuizu.web.app" width="360" height="700"></iframe>
+        <iframe src="https://tsmnkw.github.io/kana-kuizu/" width="360" height="700"></iframe>
     </div>
     
     <div class="content c2 hidden">
@@ -77,9 +77,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://kana-kuizu.web.app">Web link</a>
+                <a href="https://tsmnkw.github.io/kana-kuizu/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/kana-kuizu">Github repo</a>
+                <a href="https://github.com/tsmnkw/kana-kuizu">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -118,7 +118,7 @@ onMount(() => {
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
                 <a href="https://hyprcht.web.app/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/hyperchat">Github repo</a>
+                <a href="https://github.com/tsmnkw/hyperchat">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -148,7 +148,7 @@ onMount(() => {
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
                 <a href="https://japanesejisho.web.app">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/japanese-jisho">Github repo</a>
+                <a href="https://github.com/tsmnkw/japanese-jisho">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -171,7 +171,7 @@ onMount(() => {
 
 
     <div class="a5 hidden">
-        <iframe src="https://tasmankingsley.github.io/consistency-graph/" width="360" height="700"></iframe>
+        <iframe src="https://tsmnkw.github.io/consistency-graph/" width="360" height="700"></iframe>
     </div>
     
     <div class="content c5 hidden">
@@ -180,9 +180,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/consistency-graph/">Web link</a>
+                <a href="https://tsmnkw.github.io/consistency-graph/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/consistency-graph">Github repo</a>
+                <a href="https://github.com/tsmnkw/consistency-graph">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -206,7 +206,7 @@ onMount(() => {
 
 
     <div class="a6 hidden">
-        <iframe src="https://tasmankingsley.github.io/tetris/" width="360" height="700"></iframe>
+        <iframe src="https://tsmnkw.github.io/tetris/" width="360" height="700"></iframe>
     </div>
 
     <div class="content c6 hidden">
@@ -215,9 +215,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/tetris/">Web link</a>
+                <a href="https://tsmnkw.github.io/tetris/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/tetris">Github repo</a>
+                <a href="https://github.com/tsmnkw/tetris">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -232,7 +232,7 @@ onMount(() => {
 
 
     <div class="a7 hidden">
-        <iframe src="https://tasmankingsley.github.io/todo/" width="360" height="700"></iframe>
+        <iframe src="https://tsmnkw.github.io/todo/" width="360" height="700"></iframe>
     </div>
 
     <div class="content c7 hidden">
@@ -241,9 +241,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/todo/">Web link</a>
+                <a href="https://tsmnkw.github.io/todo/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/todo">Github repo</a>
+                <a href="https://github.com/tsmnkw/todo">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -263,7 +263,7 @@ onMount(() => {
 
 
     <div class="a8 hidden">
-        <iframe src="https://tasmankingsley.github.io/calc/" width="280" height="350"></iframe>
+        <iframe src="https://tsmnkw.github.io/calc/" width="280" height="350"></iframe>
     </div>
 
     <div class="content c8 hidden">
@@ -272,9 +272,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/calc/">Web link</a>
+                <a href="https://tsmnkw.github.io/calc/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/calc">Github repo</a>
+                <a href="https://github.com/tsmnkw/calc">Github repo</a>
             </div>
 
             <h3>Description</h3>
@@ -289,7 +289,7 @@ onMount(() => {
 
 
     <div class="a9 hidden">
-        <iframe src="https://tasmankingsley.github.io/new-tab/" width="360" height="700"></iframe>
+        <iframe src="https://tsmnkw.github.io/new-tab/" width="360" height="700"></iframe>
     </div>
 
     <div class="content c9 hidden">
@@ -298,9 +298,9 @@ onMount(() => {
 
             <div class="link-div">
                 <img src={$dark_mode ? "./images/link-light.png" : "./images/link.png"} alt="">
-                <a href="https://tasmankingsley.github.io/new-tab/">Web link</a>
+                <a href="https://tsmnkw.github.io/new-tab/">Web link</a>
                 <img src={$dark_mode ? "./images/github-light.png" : "./images/github.png"} alt="">
-                <a href="https://github.com/tasmankingsley/new-tab">Github repo</a>
+                <a href="https://github.com/tsmnkw/new-tab">Github repo</a>
             </div>
 
             <h3>Description</h3>

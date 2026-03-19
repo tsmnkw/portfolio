@@ -38,7 +38,7 @@ function toggle(num) {
         <div class="img" style="background-image: url({card_3})" on:click={() => toggle(4)}>
             <div class="card-txt"><span>Design porfolio</span></div>
         </div>
-        <div class="img" style="background-image: url({card_4})" on:click={() => toggle(6)}>
+        <div class="img" style="background-image: url({card_4})" on:click={() => toggle(5)}>
             <div class="card-txt"><span>About</span></div>
         </div>
     </div>
